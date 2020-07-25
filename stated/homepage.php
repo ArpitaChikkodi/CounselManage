@@ -49,7 +49,7 @@ include ("queries/db.php");
         <div class="row align-items-center">
           
           <div class="col-6 col-xl-2">
-            <h1 class="mb-0 site-logo m-0 p-0"><a href="homepage.php" class="mb-0">Counselling System</a></h1>
+            <h1 class="mb-0 site-logo m-0 p-0"><a href="homepage.php" class="mb-0">Counsel Manage</a></h1>
           </div>
 
           <div class="col-12 col-md-10 d-none d-xl-block">
